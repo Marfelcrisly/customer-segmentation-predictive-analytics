@@ -41,7 +41,7 @@ Proyek ini merupakan solusi analitik data end-to-end yang mengombinasikan teknik
 > *Insight:* Matriks korelasi membantu mengidentifikasi hubungan antar variabel finansial pelanggan.
 
 ### 2. Segmentasi Kelompok Pelanggan (Cluster Plot)
-![Visualisasi Cluster](assets/cluster_plot.png)
+![Visualisasi Cluster](assets/clusterplot.png)
 > *Insight:* Titik-titik data terpisah ke dalam beberapa kelompok, membuktikan fitur mampu membedakan profil pelanggan.
 
 ### 3. Fitur Paling Berpengaruh (Feature Importance)
